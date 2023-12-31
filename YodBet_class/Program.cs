@@ -301,6 +301,7 @@ namespace YodBet_class
 
         public static void ConnectBead(Bead firstBead1, Bead firstBead2)
         {
+            asdasd
             Bead pos1 = firstBead1;
             while (pos1.GetNextBead() != null)
             {
